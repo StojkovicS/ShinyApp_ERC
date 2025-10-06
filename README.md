@@ -4,7 +4,7 @@ Here is the link to the app: http://polsci.uni-wh.de:3838/danger-cain/
 
 Below are the pictures of the interface:
 
-![Interface 1](shiny_interface.pdf)
-![Interface 2](shiny_interface.pdf)
-![Interface 3](shiny_interface.pdf)
-![Interface 4](shiny_interface.pdf)
+![Interface 1](figures/shiny_interface-1.png)
+![Interface 2](figures/shiny_interface-2.png)
+![Interface 3](figures/shiny_interface-3.png)
+![Interface 4](figures/shiny_interface-4.png)
